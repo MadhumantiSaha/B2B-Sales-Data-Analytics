@@ -10,13 +10,13 @@ The report analyzes sales performance, profitability, returns, and target achiev
 The report contains the following pages:
 
 - **Executive Overview** – High-level KPIs, Sales Trend, Sales vs Target by Region, and Profit by Category
-![Executive Overview](screenshots\Executive Overview.png)
+![Executive Overview](screenshots/Executive%20Overview.png)
 
 - **Performance Analysis** – Top/Bottom 5 Products, Salesperson Performance, and Customer Segment analysis
-![Performance Analysis](screenshots\Performance Analysis.png)
+![Performance Analysis](screenshots/Performance%20Analysis.png)
 
 - **Customer / Order Details** – Drill-through page for detailed customer and order-level exploration
-![Customer/Order Details](screenshots\Drill_Through_page.png)
+![Customer/Order Details](screenshots/Drill_Through_page.png)
 
 ---
 
